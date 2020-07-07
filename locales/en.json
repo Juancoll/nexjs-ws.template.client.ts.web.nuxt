@@ -1,0 +1,11 @@
+{
+    "#home.item.title": "Welcome",
+    "#home.item.description": "Home page",
+    "#inspire.item.title": "Inspire",
+    "#inspire.item.description": "Inspire page",
+    "#inspire.text": "First, solve the problem. Then, write the code.",
+    "#routing.item.title": "Routing",
+    "#routing.item.description": "Dynamic Routing",
+    "#counter.item.title": "Counter Store",
+    "#counter.item.description": "Store sample"
+}
